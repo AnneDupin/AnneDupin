@@ -20,7 +20,7 @@ Take a 👀 at my exercices to see my 📈.
 
 **INTEREST**
 
-🎬 Youth - Yórgos Lánthimos
+🎬 Youth - Paolo Sorrentino
 🎧 Telas - Nicolas Jaar
 📖 Le Regard Féminin, une Révolution à l'écran - Iris Brey
 
