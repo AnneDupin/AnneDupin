@@ -15,7 +15,7 @@ Take a 👀 at my exercices to see my 📈.
 - ⚓ I’m currently working on cloning an IG page w/ React 
 - 📱 Working on my Podcast App 
 - 🌱 I’m currently learning JavaScript, CSS & React
-- 🤔 I’m looking for help with CSS tricks 
+- 🤔 I’m looking for help with CSS tricks (et un stage !) 
 
 
 **INTEREST**
