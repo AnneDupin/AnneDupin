@@ -1,4 +1,4 @@
-### Hi there ✨,
+### Hey ✨,
 
 my name is **An Si** and I'm based in **Paris**. Currently learning and practicing **Frontend Development** 🖥.
 
