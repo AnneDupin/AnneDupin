@@ -27,7 +27,7 @@ Take a 👀 at my exercices to see my 📈.
 
 **STATISTICS**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annedupin)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=annedupin&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnneDupin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
