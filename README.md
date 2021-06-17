@@ -7,7 +7,7 @@ Take a 👀 at my exercices to see my 📈.
 **ABOUT ME**
 - 🎙 Producer of **SONORE** an **Itw Music Podcast** at https://podcasts.apple.com/us/podcast/sonore/id1484332756
 - 🍝 Little Chef 
-- 💻 Writting a scenario / book project
+- 💻 Writing a scenario / book project
 - 🥰 Enthusiastic about movies, *a lot of movies*, web design, feminism and coding tutorials
 
 **SKILLS**
