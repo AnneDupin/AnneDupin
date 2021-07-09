@@ -1,6 +1,6 @@
 ### Hi ✨,
 
-my name is **An Si** and I'm based in **Paris**. Currently learning and practicing **Frontend Development** and **Web Design**🖥.
+my name is **An Si** and I'm based in **Paris**. Currently learning and practicing **Frontend Development** and **Web Design** 🖥.
 
 Take a 👀 at my exercices to see my 📈.
 
