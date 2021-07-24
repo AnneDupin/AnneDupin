@@ -13,7 +13,7 @@ Take a 👀 at my exercices to see my 📈.
 **SKILLS**
 
 - ⚓ I’m currently working on cloning an IG page w/ React 
-- 📱 Working on my Podcast App 
+- 📱 Working on my Podcasts App 
 - 🌱 I’m currently learning JavaScript, CSS & React
 - 🤔 I’m looking for help with CSS tricks (et un stage !) 
 
