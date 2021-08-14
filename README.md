@@ -14,14 +14,14 @@ Take a 👀 at my exercices to see my 📈.
 
 - ⚓ I’m currently working on cloning an IG page w/ React 
 - 📱 Working on my Podcasts App 
-- 🌱 I’m currently learning JavaScript, CSS & React
-- 🤔 I’m looking for help with CSS tricks (et un stage !) 
+- 🌱 I’m currently learning JavaScript, CSS, React, AI, XD and Photoshop.
+- 🤔 I’m looking for $ 
 
 
 **INTEREST**
 
 🎬 Youth - Paolo Sorrentino
-🎧 Telas - Nicolas Jaar
+🎧 Happier than ever - Billie Eilish
 📖 Le Regard Féminin, une Révolution à l'écran - Iris Brey
 
 
